@@ -10,4 +10,6 @@ I chose to highlight the major roadways as I deem them extremely important in ef
 
 map: https://fdenisco.github.io/fdenisco-web/index.html
 
+![alt text](https://github.com/UBC-GEOB472-Spring2021/fdenisco-web/blob/main/Exploratory%20Lab%201:%20Web%20cartography/WhaleTrail.png)
+
 ![alt text](https://fdenisco.github.io/fdenisco-web/WhaleTrail.png)
