@@ -10,3 +10,4 @@ I chose to highlight the major roadways as I deem them extremely important in ef
 
 map: https://fdenisco.github.io/fdenisco-web/index.html
 
+![alt text](https://fdenisco.github.io/fdenisco-web/Whale Trail.png "Logo Title Text 1")
