@@ -1,4 +1,4 @@
-##Mapping Maritime Museums
+Mapping Maritime Museums
 
 The Whale Trail is a non-profit whose mission is to inspire appreciation and stewardship of orcas, other marine mammals and the marine environment by identifying a network of viewing sites along the whales’ trails through the Salish Sea and along the Pacific Coast.
 
