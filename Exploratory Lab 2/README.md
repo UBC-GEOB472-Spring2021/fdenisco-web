@@ -1,7 +1,10 @@
+##Mapping Maritime Museums
+
 The Whale Trail is a non-profit whose mission is to inspire appreciation and stewardship of orcas, other marine mammals and the marine environment by identifying a network of viewing sites along the whales’ trails through the Salish Sea and along the Pacific Coast.
 
 The style of the map is the same as my previous lab which highlights the points noted on the whale trail within Washington State. That being said, I utilized geojson.io to create the layers, and Mapbox studio to create the style of the map used. The interactivity is the taking of the user from each museum to the next with a flyover effect while panning around the area once atop it. I utilized Mapbox's interactive storytelling model for the map, which can be found in its entirety here: https://www.mapbox.com/solutions/interactive-storytelling/ I relied heavily on their instructuion and added each of the chapters effectively. The model was incredibly useful as a tool due as its implimentation was incredibly intuitive and its presentation is quite remarkable.
 
+------
 
 This particular map focuses on the museums that the Whale Trail has on file in Washington and takes the user to each one from North to South. I included the mission statement of each of these maps alongside their names for a bit more informaiton on what they do. The interactivity on the whole of the website is actually quite simplistic, while incredibly visually stimulating. As the user scrolls, the map "flys over" to the next point. Each of these points were located using a helper file within the model that provided a given latitude, longitude, zoom, pitch and bearing. Because my mapbox style already contained the points, I only needed to utilize the hover feature to center said points within the frame of the screen. 
 
