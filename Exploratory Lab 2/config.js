@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/fdenisco/cklpwe41x353x17qh88sjsw2w', // custom style url from https://studio.mapbox.com/
     accessToken: 'pk.eyJ1IjoiZmRlbmlzY28iLCJhIjoiY2trdm9jeHF4MTRzeTJwbjB1Mmx6aDhiMCJ9.bz1iVUzKe6YTln-cqMK42w',
-    showMarkers: true,
+    showMarkers: false,
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
