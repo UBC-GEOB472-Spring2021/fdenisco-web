@@ -1,13 +1,13 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    style: 'mapbox://styles/fdenisco/cklpwe41x353x17qh88sjsw2w', // custom style url from https://studio.mapbox.com/
+    accessToken: 'pk.eyJ1IjoiZmRlbmlzY28iLCJhIjoiY2trdm9jeHF4MTRzeTJwbjB1Mmx6aDhiMCJ9.bz1iVUzKe6YTln-cqMK42w',
     showMarkers: true,
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    title: 'Mapping Maritime Museums',
+    subtitle: 'Exploring the Museums of Washington state as noted by the Whale Trail',
+    byline: 'By Fred DeNisco',
     footer: 'Source: source citations, etc.',
     chapters: [
         {
