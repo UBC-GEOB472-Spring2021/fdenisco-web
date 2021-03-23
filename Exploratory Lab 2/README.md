@@ -1,4 +1,5 @@
 Mapping Maritime Museums
+-
 
 The Whale Trail is a non-profit whose mission is to inspire appreciation and stewardship of orcas, other marine mammals and the marine environment by identifying a network of viewing sites along the whales’ trails through the Salish Sea and along the Pacific Coast.
 
@@ -12,6 +13,10 @@ While I did not include this feature in this map, an incredibly useful addition 
 
 Exploring the nature of the interactivity of the map was extremely intraguing as it is a narrative device to bring users truly into the information you are providing them with. That being said, this lab in particular helped me to gain a better understanding of how HTML and JS specifically can be utilized together to create more powerful tools.
 
+---
+
 map: https://fdenisco.github.io/fdenisco-web/index.html
+
+-----
 
 ![alt text](https://github.com/UBC-GEOB472-Spring2021/fdenisco-web/blob/main/Exploratory%20Lab%202/Museum.png)
